@@ -1,0 +1,36 @@
+_repo: Second-Variety_32032
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ebel, Alex
+    gutenberg_agent_id: '35627'
+    url: http://www.gutenberg.org/2009/agents/35627
+covers:
+- cover_type: archival
+  image_path: 32032-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+title: Second Variety
+url: http://www.gutenberg.org/ebooks/32032
