@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33399
     wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32032#Second-Variety
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
